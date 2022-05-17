@@ -1,0 +1,40 @@
+---
+title: "Bhabishya Neupane"
+image: "Bhabishya.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/nbhabish/"
+  - label: GitHub
+    url: "https://github.com/nBhabish"
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+Originally from Nepal, I attended the University of Nebraska-Lincoln for my Bachelor's degree from 2017 to 2021. My first name is pronounced Va-vish-yuh (three syllables). During leisure, I enjoy playing & watching soccer (or football), basketball, volleyball, and foosball (table soccer). I am also a massive Manchester United fan. 
+
+__A little about my family__: My parents are both teachers by occupation and are in Nepal. I have got two older siblings, and both of them are doctors. Everyone in my family enjoys soccer.
+
+
+## Education
+
+**University of Nebraska - Lincoln** | B.A. Economics & Mathematics  
+Aug. 2017 - Dec 2021
+
+
+## Experience
+
+**Data Analyst** | Ecolab   
+May 2022 - Present
+
+**Economic Research Analyst** | Bureau of Business Research      
+Mar. 2019 - Dec. 2021
+
+**Data Analyst Intern** | Institute of Agriculture and Natural Resources     
+Mar. 2021 - Apr. 2021
+
+**Undergraduate Research Assistant** | Department of Economics, UNL   
+Aug. 2018 - Jan. 2020
+
+
